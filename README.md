@@ -1,6 +1,6 @@
 # Ledboy-2
 Ledboy 2 mini game console and watch, plus a attiny 416 dev board.
-Inludes:
+Inludes:/n
 -128x32 sd1306 oled screen
 -Batt charger IC
 -Buzzer
