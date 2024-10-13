@@ -12,7 +12,8 @@ Features:
 -Sensor
 
 -Mosfet controlled batt ouput.
-![20241013_181641](https://github.com/user-attachments/assets/420abf3f-2709-4c99-b95f-189bdb1534e4)
+
+![20241013_181641](https://github.com/user-attachments/assets/4d0b056c-7846-4fc5-b9b9-d17b08134ec4)
 
 ![20241012_212736](https://github.com/user-attachments/assets/9099f9ec-bdde-4ca3-9121-9837cd252f21)
 
