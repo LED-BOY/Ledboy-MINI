@@ -23,7 +23,7 @@ Features:
 
 -RTC clock
 
--Temp monitor
+-Temp. monitor
 
 -Mosfet controlled batt ouput.
 
