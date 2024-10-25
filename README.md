@@ -11,6 +11,20 @@ Features:
 
 -Sensor
 
+-4k 20mhz MCU
+
+-USB to serial CH340E
+
+-Button input
+
+-Micro USB port
+
+-RGB LED
+
+-RTC clock
+
+-Temp monitor
+
 -Mosfet controlled batt ouput.
 
 ![20241013_181641](https://github.com/user-attachments/assets/4d0b056c-7846-4fc5-b9b9-d17b08134ec4)
