@@ -41,7 +41,7 @@ Features:
 Drivers:
 First you need to download CH341SER.EXE windows drivers from: https://www.wch-ic.com/products/CH340.html?
 
-Avrdudess method (recomended):
+## Avrdudess method (recomended):
 
 Download Avrdudess: https://github.com/ZakKemble/AVRDUDESS
 
