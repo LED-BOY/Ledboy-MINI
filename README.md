@@ -37,7 +37,8 @@ Features:
 
 
 # How to Flash:
-## windows 10/11 tutorial.
+## Windows 10/11 tutorial
+*If you have Avrdudess working under linux or Mac, it also should work, CH340E drivers are required.
 
 First you need to download CH341SER.EXE windows drivers from: https://www.wch-ic.com/products/CH340.html?
 
