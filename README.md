@@ -47,7 +47,6 @@ Download Avrdudess: https://github.com/ZakKemble/AVRDUDESS
 Make sure all your settings are the same:
 
 The only thing it may be different is your COM port.
-If you dont have any other serial device the only com port available should be your Ledboy 2
+If you don't have any other serial device the only com port available should be your Ledboy 2
 if not, unplug your Ledboy 2 and see what port is missing, that is yours Ledboy 2 COM port.
 Make sure you select the .hex file in the Flash slot.
-![Arduboy Flash](https://github.com/user-attachments/assets/cc9d610f-1d70-485a-bf29-70e3a2a77b5b)
