@@ -36,7 +36,8 @@ Features:
 [Ledboy 2 1.5 schematic.pdf](https://github.com/user-attachments/files/17515040/Ledboy.2.1.5.schematic.pdf)
 
 
-# How to Flash
+# How to Flash:
+## windows 10/11 tutorial.
 
 First you need to download CH341SER.EXE windows drivers from: https://www.wch-ic.com/products/CH340.html?
 
