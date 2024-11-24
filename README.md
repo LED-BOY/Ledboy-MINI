@@ -26,9 +26,8 @@ Features:
 -Temp. monitor
 
 -Mosfet controlled batt ouput.
-
-![20241013_181641](https://github.com/user-attachments/assets/4d0b056c-7846-4fc5-b9b9-d17b08134ec4)
-
+![20241124_192634](https://github.com/user-attachments/assets/98457841-556e-4789-9c1f-1a8ea2f5075d)
+![20241124_192409](https://github.com/user-attachments/assets/6db445f6-dd00-4e11-9ec9-f807e5c56194)
 ![20241012_212736](https://github.com/user-attachments/assets/9099f9ec-bdde-4ca3-9121-9837cd252f21)
 
 # Ledboy MINI schematics 
