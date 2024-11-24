@@ -1,5 +1,5 @@
 # Ledboy-MINI
-Ledboy 2 mini game console and watch, plus a attiny 416 dev board.
+Ledboy  mini game console and watch, plus a attiny 416 dev board.
 
 Features: 
 
@@ -31,12 +31,20 @@ Features:
 
 ![20241012_212736](https://github.com/user-attachments/assets/9099f9ec-bdde-4ca3-9121-9837cd252f21)
 
-# Ledboy 2 schematics 
+# Ledboy MINI schematics 
 
 [Ledboy mini 1.4 rev b schematic.pdf](https://github.com/user-attachments/files/17895039/Ledboy.mini.1.4.rev.b.schematic.pdf)
 
+# Board Layout
+
+![PCB layout](https://github.com/user-attachments/assets/4d0872dd-545f-4ed2-84ed-03da116033b0)
 
 # How to Flash:
+
+NOTICE:
+IF USING ONLY THE USB CABLE WITHOUT A BATTERY, HOW THE CHARGER IC IS CONFIGURED IT ONLY DELIVERS  100MHA, IT IS ENOUGHT FOR FLASHING TURNING ON THE MCU AND THE LED, BUT THE OLED SCREEN WILL NOT WORK PROPERLY.
+ADD A BATTERY IF YOU INTEND TO USE THE OLED SCEEN WITH THE DEVICE, OR CHANGE THE R1 RESISTOR VALUE TO A 0603 2K OHM.
+
 ## Windows 10/11 tutorial:
 
 *If you have Avrdudess working under linux or Mac, it also should work, CH340E drivers are required.
@@ -68,3 +76,22 @@ Once you have all installed intro the Arduio IDE you can start configuring the b
 Com port should be the one available when you connect your ledboy 2.
 
 ![Arduino flashing](https://github.com/user-attachments/assets/aaa7249f-504b-4a52-8b88-f2495a363767)
+
+You can check if the program compiles using the check mark, keep in mind that this MCU only has 4096 bytes of flash.
+
+![compiling](https://github.com/user-attachments/assets/430df620-a212-444f-8175-08b5f0bdbdc2)
+
+To upload the program to your Ledboy Mini, click the right arrow.
+
+# The battery situation
+
+![battery](https://github.com/user-attachments/assets/2af62154-1f2b-4bde-8878-27d9f8a527b7)
+
+The recommended battery is: 302030 LIPO 3.7v 120mhs, it gives a nice battery duration, it fit nicely, and the batt charger IC is configured to charge at 100mha aprox.
+Which is adequate for this battery capacity.
+
+Make sure to be carfull when soldering the battery, to not short the contacts, is better to solder the positive first then negative.
+
+## Configure the charger IC
+
+If you whant to add a bigger battery you can change the R1 resistor to a 0603 2k ohm, that will give you the max 500 mha that the charger is capable to deliver. 
