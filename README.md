@@ -1,4 +1,4 @@
-# Ledboy-2
+# Ledboy-MINI
 Ledboy 2 mini game console and watch, plus a attiny 416 dev board.
 
 Features: 
@@ -33,7 +33,7 @@ Features:
 
 # Ledboy 2 schematics 
 
-[Ledboy 2 1.5 schematic.pdf](https://github.com/user-attachments/files/17515040/Ledboy.2.1.5.schematic.pdf)
+[Ledboy mini 1.4 rev b schematic.pdf](https://github.com/user-attachments/files/17895039/Ledboy.mini.1.4.rev.b.schematic.pdf)
 
 
 # How to Flash:
