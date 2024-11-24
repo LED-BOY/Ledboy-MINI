@@ -57,7 +57,7 @@ Make sure you select the .hex file in the Flash slot.
 
 ![Arduboy Flash](https://github.com/user-attachments/assets/a127568a-98b8-4a76-89c8-585375451b3f)
 
-##Flash from source:
+## Flash from source:
 To Flash from source and make changes to the code you need to install a few things.
 
 1- Legacy arduino software 1.8.19 works well: https://www.arduino.cc/en/software
