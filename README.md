@@ -54,6 +54,7 @@ The only thing it may be different is your COM port.
 If you don't have any other serial device, the only com port available should be your Ledboy 2,
 if not, unplug your Ledboy 2 and see what port is missing, then reconnect you Ledboy 2, that is yours Ledboy 2 COM port.
 Make sure you select the .hex file in the Flash slot.
+
 ![Arduboy Flash](https://github.com/user-attachments/assets/a127568a-98b8-4a76-89c8-585375451b3f)
 
 ##Flash from source:
@@ -65,4 +66,5 @@ To Flash from source and make changes to the code you need to install a few thin
 
 Once you have all installed intro the Arduio IDE you can start configuring the board parameters.
 Com port should be the one available when you connect your ledboy 2.
+
 ![Arduino flashing](https://github.com/user-attachments/assets/aaa7249f-504b-4a52-8b88-f2495a363767)
