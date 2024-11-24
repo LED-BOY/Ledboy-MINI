@@ -55,3 +55,14 @@ If you don't have any other serial device, the only com port available should be
 if not, unplug your Ledboy 2 and see what port is missing, then reconnect you Ledboy 2, that is yours Ledboy 2 COM port.
 Make sure you select the .hex file in the Flash slot.
 ![Arduboy Flash](https://github.com/user-attachments/assets/a127568a-98b8-4a76-89c8-585375451b3f)
+
+##Flash from source:
+To Flash from source and make changes to the code you need to install a few things.
+
+1- Legacy arduino software 1.8.19 works well: https://www.arduino.cc/en/software
+2- Follow instll instruction to add attiny boards to Arduino IDE: https://github.com/SpenceKonde/megaTinyCore
+3- Istall Tiny i2c to librarys, needed to compile: https://github.com/technoblogy/tiny-i2c
+
+Once you have all installed intro the Arduio IDE you can start configuring the board parameters.
+Com port should be the one available when you connect your ledboy 2.
+![Arduino flashing](https://github.com/user-attachments/assets/aaa7249f-504b-4a52-8b88-f2495a363767)
