@@ -68,7 +68,9 @@ Make sure you select the .hex file in the Flash slot.
 To Flash from source and make changes to the code you need to install a few things.
 
 1- Legacy arduino software 1.8.19 works well: https://www.arduino.cc/en/software
+
 2- Follow instll instruction to add attiny boards to Arduino IDE: https://github.com/SpenceKonde/megaTinyCore
+
 3- Istall Tiny i2c to librarys, needed to compile: https://github.com/technoblogy/tiny-i2c
 
 Once you have all installed intro the Arduio IDE you can start configuring the board parameters.
