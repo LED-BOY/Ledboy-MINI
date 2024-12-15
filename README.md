@@ -75,6 +75,11 @@ To Flash from source and make changes to the code you need to install a few thin
 
 3- Istall Tiny i2c to librarys, needed to compile: https://github.com/technoblogy/tiny-i2c
 
+Add the new library: tiny-i2c-master.zip
+
+![Sin título](https://github.com/user-attachments/assets/854a74bd-942c-4249-bd1e-0438a1baa2de)
+
+
 Once you have all installed intro the Arduio IDE you can start configuring the board parameters.
 Com port should be the one available when you connect your ledboy 2.
 
