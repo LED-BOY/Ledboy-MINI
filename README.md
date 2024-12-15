@@ -91,6 +91,10 @@ You can check if the program compiles using the check mark, keep in mind that th
 
 To upload the program to your Ledboy Mini, click the right arrow.
 
+# Assemble the screen and sensor if needed.
+
+![Ledboy 2 V1 4 REV B v2](https://github.com/user-attachments/assets/519a719d-0682-4ba5-9a2b-10de1a844c91)
+
 # The battery situation
 
 ![battery](https://github.com/user-attachments/assets/2af62154-1f2b-4bde-8878-27d9f8a527b7)
