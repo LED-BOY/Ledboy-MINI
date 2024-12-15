@@ -53,7 +53,7 @@ Download CH341SER.EXE windows drivers from: https://www.wch-ic.com/products/CH34
 
 ## Avrdudess method (recomended):
 
-Download all apps and games precompiled from releases.
+Download all apps and games precompiled from releases: https://github.com/LED-BOY/Ledboy-MINI/releases
 
 Download Avrdudess: https://github.com/ZakKemble/AVRDUDESS
 
