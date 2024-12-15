@@ -53,6 +53,8 @@ Download CH341SER.EXE windows drivers from: https://www.wch-ic.com/products/CH34
 
 ## Avrdudess method (recomended):
 
+Download all apps and games precompiled from releases.
+
 Download Avrdudess: https://github.com/ZakKemble/AVRDUDESS
 
 Make sure all your settings are the same:
