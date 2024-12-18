@@ -112,7 +112,7 @@ https://www.aliexpress.com/item/1005002060362335.html?spm=a2g0o.order_list.order
 The recommended battery is: 302030 LIPO 3.7v 120mhs, it gives a nice battery duration, it fit nicely, and the batt charger IC is configured to charge at 100mha aprox.
 Which is adequate for this battery capacity.
 
-Make sure to be carfull when soldering the battery, to not short the contacts, is better to solder the positive first then negative.
+Make sure to be carfull when soldering the battery, do not short the contacts, is better to solder the positive first (red wire), then negative.
 
 ## Configure the charger IC
 
