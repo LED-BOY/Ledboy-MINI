@@ -97,7 +97,7 @@ To upload the program to your Ledboy Mini, click the right arrow.
 
 # Strap options
 
-Nylon Elastic Band Hook Loop Cable Ties 25mm widht and 250mm lenght is usually fine, if you have big wrist 300mm is ok.
+Nylon Elastic Band Hook Loop Cable Ties 25mm width and 250mm length is usually fine, if you have big wrist 300mm is ok.
 
 https://www.aliexpress.com/item/1005002060362335.html?spm=a2g0o.order_list.order_list_main.5.31e7194dIRHE37&gatewayAdapt=glo2esp
 
