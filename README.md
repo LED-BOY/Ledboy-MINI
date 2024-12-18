@@ -81,7 +81,9 @@ Add the new library: tiny-i2c-master.zip
 
 
 Once you have all installed intro the Arduio IDE you can start configuring the board parameters.
-Com port should be the one available when you connect your ledboy 2.
+Com port should be the one available when you connect your ledboy mini.
+
+DON'T FORGET TO BURN BOOTLOADER BEFORE FLASHING IF USING THIS OPTION.
 
 ![Arduino flashing](https://github.com/user-attachments/assets/aaa7249f-504b-4a52-8b88-f2495a363767)
 
