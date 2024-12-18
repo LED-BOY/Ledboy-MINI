@@ -95,6 +95,14 @@ To upload the program to your Ledboy Mini, click the right arrow.
 
 ![Ledboy 2 V1 4 REV B v2](https://github.com/user-attachments/assets/519a719d-0682-4ba5-9a2b-10de1a844c91)
 
+# Strap options
+
+Nylon Elastic Band Hook Loop Cable Ties 25mm widht and 250mm lenght is usually fine, if you have big wrist 300mm is ok.
+
+https://www.aliexpress.com/item/1005002060362335.html?spm=a2g0o.order_list.order_list_main.5.31e7194dIRHE37&gatewayAdapt=glo2esp
+
+![Sin título](https://github.com/user-attachments/assets/97b59b5e-02ab-4b92-87fd-6649b9700f15)
+
 # The battery situation
 
 ![battery](https://github.com/user-attachments/assets/2af62154-1f2b-4bde-8878-27d9f8a527b7)
