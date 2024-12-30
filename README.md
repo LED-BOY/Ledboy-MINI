@@ -96,6 +96,7 @@ To upload the program to your Ledboy Mini, click the right arrow.
 # Assemble the screen and sensor if needed.
 
 ![Ledboy 2 V1 4 REV B v2](https://github.com/user-attachments/assets/519a719d-0682-4ba5-9a2b-10de1a844c91)
+You need to use a 4 pin header to solder the oled screen.
 
 Photo for reference.
 ![20241128_201355](https://github.com/user-attachments/assets/1415ffb6-ca2e-4dc7-bcc1-2d2d48654e48)
