@@ -103,11 +103,12 @@ Photo for reference.
 
 # Strap options
 
-Nylon Elastic Band Hook Loop Cable Ties 25mm width and 250mm length is usually fine, if you have big wrist 300mm is ok.
+22mm recommended Hook & Loop Nylon Strap
 
-https://www.aliexpress.com/item/1005002060362335.html?spm=a2g0o.order_list.order_list_main.5.31e7194dIRHE37&gatewayAdapt=glo2esp
+[https://www.aliexpress.com/item/1005002060362335.html?spm=a2g0o.order_list.order_list_main.5.31e7194dIRHE37&gatewayAdapt=glo2esp](https://www.aliexpress.com/item/1005005994868690.html?spm=a2g0o.productlist.main.65.7f895BIJ5BIJqm&algo_pvid=f134d148-ab03-483a-bcb3-0b9b4a0c6f23&algo_exp_id=f134d148-ab03-483a-bcb3-0b9b4a0c6f23-32&pdp_npi=4%40dis%21USD%211.99%211.79%21%21%211.99%211.79%21%40212a70c117356048127567774e2ff7%2112000035222841702%21sea%21UY%212102966712%21X&curPageLogUid=hNslSdu6VDTG&utparam-url=scene%3Asearch%7Cquery_from%3A)
 
-![Sin título](https://github.com/user-attachments/assets/97b59b5e-02ab-4b92-87fd-6649b9700f15)
+![Sin título](https://github.com/user-attachments/assets/9ca4a953-21a9-4b3b-bdb0-2aa92d4c28c6)
+
 
 # The battery situation
 
