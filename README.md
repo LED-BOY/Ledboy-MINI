@@ -40,7 +40,8 @@ Features:
 
 # Assembly guide
 
-[Ledboy mini quick assembly guide. 2pdf.pdf](https://github.com/user-attachments/files/18432786/Ledboy.mini.quick.assembly.guide.2pdf.pdf)
+[Ledboy mini quick assembly guide.pdf](https://github.com/user-attachments/files/18432793/Ledboy.mini.quick.assembly.guide.pdf)
+
 
 # How to Flash:
 
