@@ -38,6 +38,10 @@ Features:
 
 ![PCB layout](https://github.com/user-attachments/assets/4d0872dd-545f-4ed2-84ed-03da116033b0)
 
+# Assembly guide
+
+[Ledboy mini quick assembly guide. 2pdf.pdf](https://github.com/user-attachments/files/18432786/Ledboy.mini.quick.assembly.guide.2pdf.pdf)
+
 # How to Flash:
 
 NOTICE:
