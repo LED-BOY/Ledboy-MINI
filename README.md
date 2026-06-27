@@ -99,6 +99,8 @@ You can check if the program compiles using the check mark, keep in mind that th
 To upload the program to your Ledboy Mini, click the right arrow.
 
 # Assemble the screen and sensor if needed.
+if you are using the lastest watch firmware is configured to have a 1uf capacitor between the sensor pin and GND.
+If you dont want to solder the sensor you have to change the variable (constexpr uint8_t sensorSensitivity) to a much higher value like 8.
 
 ![Ledboy 2 V1 4 REV B v2](https://github.com/user-attachments/assets/519a719d-0682-4ba5-9a2b-10de1a844c91)
 You need to use a 4 pin header to solder the oled screen.
