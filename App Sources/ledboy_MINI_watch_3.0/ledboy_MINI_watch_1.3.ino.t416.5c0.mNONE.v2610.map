@@ -1,0 +1,152 @@
+
+
+Symbols from C:\Users\gross\AppData\Local\Temp\arduino_build_519208/ledboy_MINI_watch_1.3.ino.elf:
+
+Name                  Value   Class        Type         Size     Line  Section
+
+__heap_end          |00000000|   W  |            NOTYPE|        |     |*ABS*
+__TEXT_REGION_ORIGIN__|00000000|   W  |            NOTYPE|        |     |*ABS*
+__tmp_reg__         |00000000|   a  |            NOTYPE|        |     |*ABS*
+__vector_default    |00000000|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:63
+__vectors           |00000000|   T  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:63
+__zero_reg__        |00000001|   a  |            NOTYPE|        |     |*ABS*
+__FUSE_REGION_LENGTH__|0000000a|   A  |            NOTYPE|        |     |*ABS*
+__CCP__             |00000034|   a  |            NOTYPE|        |     |*ABS*
+__ctors_end         |00000034|   T  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:230
+__ctors_start       |00000034|   T  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:230
+__dtors_end         |00000034|   T  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:230
+__dtors_start       |00000034|   T  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:230
+__init              |00000034|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:230
+__trampolines_end   |00000034|   T  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:230
+__trampolines_start |00000034|   T  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:230
+__SP_L__            |0000003d|   a  |            NOTYPE|        |     |*ABS*
+__SP_H__            |0000003e|   a  |            NOTYPE|        |     |*ABS*
+__SREG__            |0000003f|   a  |            NOTYPE|        |     |*ABS*
+_initThreeStuff()   |00000040|   T  |              FUNC|00000018|     |.text	C:\Users\gross\AppData\Local\Arduino15\packages\megaTinyCore\hardware\megaavr\2.6.10\cores\megatinycore/main.cpp:149
+__do_copy_data      |00000058|   T  |            NOTYPE|00000016|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:2409
+__do_clear_bss      |0000006e|   T  |            NOTYPE|00000010|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:2441
+.do_clear_bss_loop  |00000076|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:2446
+.do_clear_bss_start |00000078|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:2448
+__EEPROM_REGION_LENGTH__|00000080|   A  |            NOTYPE|        |     |*ABS*
+__bad_interrupt     |00000082|   T  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_1          |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_10         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_11         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_12         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_14         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_15         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_16         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_17         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_18         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_19         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_2          |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_20         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_21         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_22         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_23         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_24         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_25         |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_4          |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_6          |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+__vector_9          |00000082|   W  |            NOTYPE|        |     |.text	../../../../../crt1/gcrt1.S:209
+TinyI2CMaster::stop() [clone .constprop.21]|00000084|   t  |              FUNC|00000014|     |.text	C:\Users\gross\OneDrive\Arduino\libraries\tiny-i2c-master/TinyI2CMaster.cpp:310
+TinyI2CMaster::write(unsigned char) [clone .constprop.19]|00000098|   t  |              FUNC|0000002c|     |.text	C:\Users\gross\OneDrive\Arduino\libraries\tiny-i2c-master/TinyI2CMaster.cpp:280
+TinyI2CMaster::start(unsigned char, long) [clone .constprop.17]|000000c4|   t  |              FUNC|00000042|     |.text	C:\Users\gross\OneDrive\Arduino\libraries\tiny-i2c-master/TinyI2CMaster.cpp:292
+__DATA_REGION_LENGTH__|00000100|   A  |            NOTYPE|        |     |*ABS*
+SSD1306Device::ssd1306_send_data_start() [clone .constprop.16]|00000106|   t  |              FUNC|00000006|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/tinyOLED.cpp:104
+SSD1306Device::ssd1306_send_command_start() [clone .constprop.15]|0000010c|   t  |              FUNC|00000006|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/tinyOLED.cpp:85
+SSD1306Device::setCursor(unsigned char, unsigned char) [clone .constprop.14]|00000112|   t  |              FUNC|00000028|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/tinyOLED.cpp:112
+SSD1306Device::drawLine(unsigned char, unsigned char, unsigned char, unsigned char) [clone .constprop.13]|0000013a|   t  |              FUNC|00000024|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/tinyOLED.cpp:120
+SSD1306Device::clearScreen() [clone .constprop.11]|0000015e|   t  |              FUNC|00000018|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/tinyOLED.cpp:145
+SSD1306Device::ssd1306_send_command(unsigned char) [clone .constprop.5]|00000176|   t  |              FUNC|0000000e|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/tinyOLED.cpp:97
+buttonDebounce(unsigned int)|00000184|   t  |              FUNC|0000005a|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:431
+drawSprite(unsigned char, unsigned char, unsigned char const*, unsigned char, unsigned char)|000001de|   t  |              FUNC|00000062|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:410
+drawTime(unsigned char, unsigned char, unsigned char, signed char) [clone .constprop.12]|00000240|   t  |              FUNC|00000092|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:382
+setNumber(unsigned char, unsigned char, unsigned char)|000002d2|   t  |              FUNC|00000092|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:307
+displayTime(unsigned char, unsigned char)|00000364|   t  |              FUNC|00000014|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:148
+analogRead.constprop.9|00000378|   t  |              FUNC|0000002c|     |.text	C:\Users\gross\AppData\Local\Arduino15\packages\megaTinyCore\hardware\megaavr\2.6.10\cores\megatinycore/wiring_analog.c:711
+readSupplyVoltage() |000003a4|   t  |              FUNC|00000040|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:498
+displayBatt()       |000003e4|   t  |              FUNC|00000088|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:153
+__LOCK_REGION_LENGTH__|00000400|   A  |            NOTYPE|        |     |*ABS*
+__SIGNATURE_REGION_LENGTH__|00000400|   A  |            NOTYPE|        |     |*ABS*
+__USER_SIGNATURE_REGION_LENGTH__|00000400|   A  |            NOTYPE|        |     |*ABS*
+__vector_7          |0000046c|   T  |              FUNC|00000064|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:581
+__vector_13         |000004d0|   T  |              FUNC|00000034|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:573
+__vector_8          |00000504|   T  |              FUNC|00000024|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:565
+__vector_5          |00000528|   T  |              FUNC|000000a0|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:530
+__vector_3          |000005c8|   T  |              FUNC|00000062|     |.text	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:512
+main                |0000062a|   T  |              FUNC|000005c2|     |.text	C:\Users\gross\AppData\Local\Arduino15\packages\megaTinyCore\hardware\megaavr\2.6.10\cores\megatinycore/main.cpp:49
+__divmodqi4         |00000bec|   T  |            NOTYPE|0000001a|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1366
+__divmodqi4_1       |00000c00|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1377
+__divmodqi4_exit    |00000c04|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1380
+__udivmodhi4        |00000c06|   T  |            NOTYPE|00000028|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1408
+__udivmodhi4_loop   |00000c0e|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1413
+__udivmodhi4_ep     |00000c1c|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1421
+__divmodhi4         |00000c2e|   T  |            NOTYPE|00000026|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1440
+_div                |00000c2e|   T  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1440
+__divmodhi4_neg1    |00000c44|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1454
+__divmodhi4_neg2    |00000c4c|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1460
+__divmodhi4_exit    |00000c52|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1464
+__udivmodsi4        |00000c54|   T  |            NOTYPE|00000044|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1638
+__udivmodsi4_loop   |00000c60|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1646
+__udivmodsi4_ep     |00000c7a|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1660
+__divmodsi4         |00000c98|   T  |            NOTYPE|00000028|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1686
+__divmodsi4_neg2    |00000cb0|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1701
+__divmodsi4_exit    |00000cbe|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1709
+__negsi2            |00000cc0|   T  |            NOTYPE|00000010|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1718
+__muluhisi3         |00000cd0|   T  |            NOTYPE|00000014|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:626
+__udivmodqi4        |00000ce4|   T  |            NOTYPE|00000018|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1346
+__udivmodqi4_loop   |00000cea|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1350
+__udivmodqi4_ep     |00000cf2|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:1355
+__umulhisi3         |00000cfc|   T  |            NOTYPE|00000018|     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:564
+_exit               |00000d14|   T  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:2278
+exit                |00000d14|   W  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:2278
+__stop_program      |00000d16|   t  |            NOTYPE|        |     |.text	/home/admin/Arduino/toolchain-avr-special-master/gcc-build/avr/avrxmega3/short-calls/libgcc/../../../../../gcc/libgcc/config/avr/lib1funcs.S:2280
+_etext              |00000d18|   T  |            NOTYPE|        |     |.text
+__data_load_start   |00000fd0|   A  |            NOTYPE|        |     |*ABS*
+__data_load_end     |00000fd2|   A  |            NOTYPE|        |     |*ABS*
+__TEXT_REGION_LENGTH__|00001000|   A  |            NOTYPE|        |     |*ABS*
+__stack             |00003fff|   W  |            NOTYPE|        |     |*ABS*
+__RODATA_PM_OFFSET__|00008000|   A  |            NOTYPE|        |     |*ABS*
+allwaysOnSprite     |00008d1c|   r  |            OBJECT|00000020|     |.rodata
+clockSprite         |00008d3c|   r  |            OBJECT|00000020|     |.rodata
+sandClockSprite     |00008d5c|   r  |            OBJECT|00000020|     |.rodata
+brightSprite        |00008d7c|   r  |            OBJECT|00000020|     |.rodata
+number9             |00008d9c|   r  |            OBJECT|00000030|     |.rodata
+number8             |00008dcc|   r  |            OBJECT|00000030|     |.rodata
+number7             |00008dfc|   r  |            OBJECT|00000030|     |.rodata
+number6             |00008e2c|   r  |            OBJECT|00000030|     |.rodata
+number5             |00008e5c|   r  |            OBJECT|00000030|     |.rodata
+number4             |00008e8c|   r  |            OBJECT|00000030|     |.rodata
+number3             |00008ebc|   r  |            OBJECT|00000030|     |.rodata
+number2             |00008eec|   r  |            OBJECT|00000030|     |.rodata
+number1             |00008f1c|   r  |            OBJECT|00000030|     |.rodata
+number0             |00008f4c|   r  |            OBJECT|00000030|     |.rodata
+battSprite          |00008f7c|   r  |            OBJECT|00000008|     |.rodata
+ssd1306_init_sequence|00008f84|   r  |            OBJECT|00000020|     |.rodata
+arrow               |00008fa4|   r  |            OBJECT|00000008|     |.rodata
+optionSprites       |00008fac|   r  |            OBJECT|00000008|     |.rodata	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/sprites.h:57
+chargingSprite      |00008fb4|   r  |            OBJECT|00000008|     |.rodata
+numbers             |00008fbc|   r  |            OBJECT|00000014|     |.rodata	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/digits.h:84
+__DATA_REGION_ORIGIN__|00803f00|   A  |            NOTYPE|        |     |*ABS*
+__data_start        |00803f00|   D  |            NOTYPE|        |     |.data
+shouldWakeUp        |00803f00|   d  |            OBJECT|00000001|     |.data	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:45
+resumeOperation     |00803f01|   d  |            OBJECT|00000001|     |.data	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:46
+__bss_start         |00803f02|   B  |            NOTYPE|        |     |.bss
+__data_end          |00803f02|   D  |            NOTYPE|        |     |.data
+_edata              |00803f02|   D  |            NOTYPE|        |     |.data
+mode                |00803f02|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:47
+interruptDebounce   |00803f03|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:49
+lastSecond          |00803f04|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:42
+ledColor            |00803f05|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:48
+seconds             |00803f06|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:39
+minutes             |00803f07|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:40
+hours               |00803f08|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:41
+dimmed              |00803f09|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/tinyOLED.cpp:42
+interruptSensitivity|00803f0a|   b  |            OBJECT|00000001|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:50
+totalSeconds        |00803f0b|   b  |            OBJECT|00000002|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:43
+timer               |00803f0d|   b  |            OBJECT|00000002|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:44
+interruptTimer      |00803f0f|   b  |            OBJECT|00000002|     |.bss	C:\Users\gross\OneDrive\Arduino\LEDBOY MINI\ledboy_MINI_watch_1.3/ledboy_MINI_watch_1.3.ino:51
+__bss_end           |00803f11|   B  |            NOTYPE|        |     |.bss
+_end                |00803f11|   N  |            NOTYPE|        |     |.comment
+__eeprom_end        |00810000|   N  |            NOTYPE|        |     |.comment
